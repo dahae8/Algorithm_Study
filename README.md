@@ -5,7 +5,9 @@
    커밋 메세지
 
 ✅ commit 규칙
+
 commit 메세지: [문제 출처(플랫폼)] 문제번호_문제이름 / 걸린시간
+
 터미널에서 작성법:
    git commit -m "[BOJ] 2557_Hello World / 1분" -m "https://www.acmicpc.net/problem/2557"
 
