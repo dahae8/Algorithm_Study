@@ -9,26 +9,20 @@ public class Main {
     StringBuilder sb = new StringBuilder();
 
     for (int i = 1; i <= t; i++) {
-      for (int j = 1; j <= i; j++) {
-        sb.append("*");
-      }
-      for (int j = 1; j <= (t - i) * 2; j++) {
+      for (int j = 1; j < i; j++) {
         sb.append(" ");
       }
-      for (int j = 1; j <= i; j++) {
+      for (int j = 1; j <= (t - i) * 2 + 1; j++) {
         sb.append("*");
       }
-
       sb.append("\n");
     }
-    for (int i = 1; i < t; i++) {
-      for (int j = 1; j <= t - i; j++) {
-        sb.append("*");
-      }
-      for (int j = 1; j <= i * 2; j++) {
+    for (int k = 1; k < t; k++) {
+      int i = t - k;
+      for (int j = 1; j < i; j++) {
         sb.append(" ");
       }
-      for (int j = 1; j <= t - i; j++) {
+      for (int j = 1; j <= (t - i) * 2 + 1; j++) {
         sb.append("*");
       }
 
