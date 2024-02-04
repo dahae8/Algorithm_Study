@@ -3,7 +3,7 @@
 |---|---|---|---|
 |1|[BOJ]|2557_Hello World|https://www.acmicpc.net/problem/2557|
 |2|[BOJ]|1000_A+B|https://www.acmicpc.net/problem/1000|
-|3|[BOJ]|2558_A+B - 2|https://www.acmicpc.net/problem/1000|
+|3|[BOJ]|2558_A+B - 2|https://www.acmicpc.net/problem/2558|
 |4|[BOJ]|10950_A+B - 3|https://www.acmicpc.net/problem/10950|
 |5|[BOJ]|10951_A+B - 4|https://www.acmicpc.net/problem/10951|
 |6|[BOJ]|10952_A+B - 5|https://www.acmicpc.net/problem/10952|
