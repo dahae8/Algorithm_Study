@@ -20,6 +20,7 @@ public class Main {
       b = Integer.parseInt(st.nextToken());
       sb.append(a + b).append("\n");
     }
+
     System.out.println(sb);
   }
 }
