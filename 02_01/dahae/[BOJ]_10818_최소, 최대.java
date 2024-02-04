@@ -20,6 +20,7 @@ public class Main {
         nm = a;
       }
     }
+
     System.out.println(nm + " " + mx);
   }
 }
