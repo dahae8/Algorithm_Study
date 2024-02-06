@@ -19,3 +19,30 @@ commit 메세지: [문제 출처(플랫폼)] 문제번호_문제이름 / 걸린�
 [CFS] - 코드포스  
 [SEA] - 삼성SW Expert Academy  
 [ETC] - 그외  
+
+
+# ✅ master 브랜치의 변경 사항을 다른 브랜치로 가져오는 방법
+
+1. master 브랜치로 이동합니다:
+   
+    ```
+    git checkout master 
+    ```   
+
+
+1. 최신 변경 사항을 가져옵니다:
+    ```
+    git pull origin master
+    ```
+2. 자신의 브랜치로 전환합니다:
+    ```
+    git checkout 브랜치명
+    ```
+3. master 브랜치에서 가져온 변경 사항을 자신의 브랜치로 병합합니다:
+    ```
+    git merge master
+    ```
+4. 병합이 완료되면 변경 사항을 원격 저장소로 푸시합니다:
+    ```
+    git push origin 브랜치명
+    ```
