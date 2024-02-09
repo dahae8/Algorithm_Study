@@ -1,4 +1,4 @@
-# 02_09 정렬 문제목록
+# 02_12 문자열 문제목록
 |번호|플랫폼_문제번호_문제이름|티어|
 | :-----: | :-----: | :-----: |
 |01|<a href="https://www.acmicpc.net/problem/2743" target="_blank">[BOJ]_2743_단어 길이 재기</a>| <a href="https://www.acmicpc.net/problem/2743" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/></a> |
