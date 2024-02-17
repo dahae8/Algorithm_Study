@@ -23,6 +23,9 @@ public class Main {
             int sum = 0;
             for (int j = i; j < arr.length; j++) {
                 sum = sum + arr[j];
+                if (sum > M) {
+                    break;
+                }
                 if (sum == M) {
                     cnt++;
                 }
