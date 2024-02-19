@@ -1,4 +1,4 @@
-+import java.io.BufferedReader;
+import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class Main {
@@ -22,7 +22,7 @@ public class Main {
         } else if (N == 3) {
             return 4; // 1 + 1 + 1 | 1 + 2 | 2 + 1 | 3
         }
-
+        // 마지막에 정수를 더해 만들 수 있는 경우
         return Count(N - 1) + Count(N - 2) + Count(N - 3);
     }
 }
