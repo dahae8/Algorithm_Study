@@ -6,10 +6,10 @@
 
 |번호|푼문제|플랫폼_문제번호_문제이름|티어|
 | :-----: | :-----: | :-----: | :-----: |
-|01|🔲|<a href="https://www.acmicpc.net/problem/9461" target="_blank">[BOJ]_9461_파도반 수열</a>| <a href="https://www.acmicpc.net/problem/9461" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> | |
-|02|🔲|<a href="https://www.acmicpc.net/problem/1463" target="_blank">[BOJ]_1463_1로 만들기</a>| <a href="https://www.acmicpc.net/problem/1463" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
-|03|🔲|<a href="https://www.acmicpc.net/problem/11726" target="_blank">[BOJ]_11726_2×n 타일링</a>| <a href="https://www.acmicpc.net/problem/11726" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
-|04|🔲|<a href="https://www.acmicpc.net/problem/11727" target="_blank">[BOJ]_11727_2×n 타일링 2</a>| <a href="https://www.acmicpc.net/problem/11727" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
+|01|🔳|<a href="https://www.acmicpc.net/problem/9461" target="_blank">[BOJ]_9461_파도반 수열</a>| <a href="https://www.acmicpc.net/problem/9461" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> | |
+|02|🔳|<a href="https://www.acmicpc.net/problem/1463" target="_blank">[BOJ]_1463_1로 만들기</a>| <a href="https://www.acmicpc.net/problem/1463" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
+|03|🔳|<a href="https://www.acmicpc.net/problem/11726" target="_blank">[BOJ]_11726_2×n 타일링</a>| <a href="https://www.acmicpc.net/problem/11726" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
+|04|🔳|<a href="https://www.acmicpc.net/problem/11727" target="_blank">[BOJ]_11727_2×n 타일링 2</a>| <a href="https://www.acmicpc.net/problem/11727" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
 |05|🔲|<a href="https://www.acmicpc.net/problem/9095" target="_blank">[BOJ]_9095_1, 2, 3 더하기</a>| <a href="https://www.acmicpc.net/problem/9095" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
 |06|🔲|<a href="https://www.acmicpc.net/problem/2193" target="_blank">[BOJ]_2193_이친수</a>| <a href="https://www.acmicpc.net/problem/2193" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
 |07|🔲|<a href="https://www.acmicpc.net/problem/2579" target="_blank">[BOJ]_2579_계단 오르기</a>| <a href="https://www.acmicpc.net/problem/2579" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> |
