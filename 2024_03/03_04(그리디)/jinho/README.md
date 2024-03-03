@@ -11,7 +11,7 @@
 |01|🔳|<a href="https://www.acmicpc.net/problem/10610" target="_blank">[BOJ]_10610_30</a>| <a href="https://www.acmicpc.net/problem/10610" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/></a> | 
 |01|🔳|<a href="https://www.acmicpc.net/problem/11399" target="_blank">[BOJ]_11399_ATM</a>| <a href="https://www.acmicpc.net/problem/11399" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/></a> | 
 |01|🔲|<a href="https://www.acmicpc.net/problem/1783" target="_blank">[BOJ]_1783_병든 나이트</a>| <a href="https://www.acmicpc.net/problem/1783" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/></a> | 
-|01|🔲|<a href="https://www.acmicpc.net/problem/1931" target="_blank">[BOJ]_1931_회의실 배정</a>| <a href="https://www.acmicpc.net/problem/1931" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/></a> | 
+|01|🔳|<a href="https://www.acmicpc.net/problem/1931" target="_blank">[BOJ]_1931_회의실 배정</a>| <a href="https://www.acmicpc.net/problem/1931" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/></a> | 
 |01|🔲|<a href="https://www.acmicpc.net/problem/1744" target="_blank">[BOJ]_1744_수 묶기</a>| <a href="https://www.acmicpc.net/problem/1744" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/></a> | 
 |01|🔲|<a href="https://www.acmicpc.net/problem/2873" target="_blank">[BOJ]_2873_롤러코스터</a>| <a href="https://www.acmicpc.net/problem/2873" target="_blank"><img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/></a> | 
 
